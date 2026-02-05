@@ -33,7 +33,7 @@ Fun facts:
 
 <td width="42%" align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhob21wa3g2eTl2aTc3enV5NzlnY2FyZDBxcW55YTU3YzR2azN5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qTqfKkSx3TH4y7kqVI/giphy.gif" width="380"/>
+<img src="pen.gif" width="380"/>
 
 </td>
 </tr>
