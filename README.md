@@ -38,9 +38,3 @@ Fun facts:
 </td>
 </tr>
 </table>
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,django,git&theme=light" />
-</p>
