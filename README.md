@@ -14,7 +14,7 @@
 <tr>
 <td width="58%" valign="top">
 
-Welcome to my GitHub profile.  
+Welcome to my GitHub profile..  
 Here you'll find my projects and contributions to the world of software development.
 
 I’m looking to collaborate on real-world full stack + AI projects.
